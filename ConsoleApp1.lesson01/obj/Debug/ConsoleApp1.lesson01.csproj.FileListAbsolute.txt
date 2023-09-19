@@ -1,0 +1,7 @@
+C:\Users\olzha\source\repos\ConsoleApp1.lesson01\ConsoleApp1.lesson01\bin\Debug\ConsoleApp1.lesson01.exe.config
+C:\Users\olzha\source\repos\ConsoleApp1.lesson01\ConsoleApp1.lesson01\bin\Debug\ConsoleApp1.lesson01.exe
+C:\Users\olzha\source\repos\ConsoleApp1.lesson01\ConsoleApp1.lesson01\bin\Debug\ConsoleApp1.lesson01.pdb
+C:\Users\olzha\source\repos\ConsoleApp1.lesson01\ConsoleApp1.lesson01\obj\Debug\ConsoleApp1.lesson01.csproj.AssemblyReference.cache
+C:\Users\olzha\source\repos\ConsoleApp1.lesson01\ConsoleApp1.lesson01\obj\Debug\ConsoleApp1.lesson01.csproj.CoreCompileInputs.cache
+C:\Users\olzha\source\repos\ConsoleApp1.lesson01\ConsoleApp1.lesson01\obj\Debug\ConsoleApp1.lesson01.exe
+C:\Users\olzha\source\repos\ConsoleApp1.lesson01\ConsoleApp1.lesson01\obj\Debug\ConsoleApp1.lesson01.pdb
